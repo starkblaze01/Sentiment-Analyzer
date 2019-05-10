@@ -17,7 +17,6 @@
 
 # Team-Members
 
-- [Mayank Pathela](https://github.com/starkblaze01)
-- [Vaaibhavi Singh](https://github.com/VaaibhaviSingh)
-- [Anshuman Verma](https://github.com/anshumanv)
-  :smiley:
+- [Mayank Pathela](https://github.com/starkblaze01) :smiley:
+- [Vaaibhavi Singh](https://github.com/VaaibhaviSingh) :smiley:
+- [Anshuman Verma](https://github.com/anshumanv) :smiley:
