@@ -11,7 +11,7 @@
 
 ### For running Web Application
 
-####Steps:-
+###Steps:-
 
 - Navigate to [Web Application](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application) folder.
 
