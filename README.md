@@ -25,17 +25,17 @@
 
 #### Negative:
 
-![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Sentiment_eg1.png)
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/blob/master/Web%20Application/public/images/Screenshot_eg1.png)
 
 ### Web Application using CNN Model
 
 #### Positive:
 
-![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Screenshot_3.png)
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/blob/master/Web%20Application/public/images/Screenshot_3.png)
 
 #### Negative:
 
-![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Screenshot_2.png)
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/blob/master/Web%20Application/public/images/Screenshot_2.png)
 
 #### Alternate Repositories:
 
