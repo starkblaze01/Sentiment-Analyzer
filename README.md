@@ -21,7 +21,7 @@
 
 #### Positive:
 
-![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Sentiment_eg.png)
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/blob/master/Web%20Application/public/images/Sentiment_eg.png)
 
 #### Negative:
 
