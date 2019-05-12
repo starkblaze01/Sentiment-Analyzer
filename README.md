@@ -14,9 +14,37 @@
 #### Steps:-
 
 - Navigate to [Web Application](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application) folder.
+- Run `yarn install`
+- Open two terminals and run `npm start` in Web application folder and run `python server.py` in kanjo-server folder to start front-end and back-end.
+
+### Web Application using Naive Bayes Model
+
+#### Positive:
+
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Sentiment_eg.png)
+
+#### Negative:
+
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Sentiment_eg1.png)
+
+### Web Application using CNN Model
+
+#### Positive:
+
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Screenshot_3.png)
+
+#### Negative:
+
+![alt text](https://github.com/starkblaze01/Sentiment-Analyzer/tree/master/Web%20Application/public/images/Screenshot_2.png)
+
+#### Alternate Repositories:
+
+- [Model Training](https://github.com/VaaibhaviSingh/SentimentAnalyzer)
+- [Web Application](https://github.com/anshumanv/kanjo)
 
 # Team-Members
 
-- [Mayank Pathela](https://github.com/starkblaze01) :smiley:
-- [Vaaibhavi Singh](https://github.com/VaaibhaviSingh) :smiley:
-- [Anshuman Verma](https://github.com/anshumanv) :smiley:
+- [Mayank Pathela](https://github.com/starkblaze01)
+- [Vaaibhavi Singh](https://github.com/VaaibhaviSingh)
+- [Anshuman Verma](https://github.com/anshumanv)
+- :smiley:
