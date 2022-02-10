@@ -8,7 +8,7 @@
     "@types/react-dom": "16.8.4",
     "axios": "^0.18.0",
     "loaders.css": "^0.1.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-loader-spinner": "^2.3.0",
